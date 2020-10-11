@@ -10,4 +10,4 @@ MobX : It is Mutable State Management Solution for Flutter Application.
 
 ## Snippet
 
-![Anime Rater](https://github.com/nvshah/MobX-Rater/images/Mobx-Anime-Rater.png)
+![](https://github.com/nvshah/MobX-Rater/tree/master/images/Mobx-Anime-Rater.png)
