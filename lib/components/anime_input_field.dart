@@ -14,7 +14,7 @@ class AnimeInputField extends StatelessWidget {
         controller: textController,
         textInputAction: TextInputAction.search,
         decoration: InputDecoration(
-          hintText: "Enter a Anime",
+          hintText: "Enter Anime",
           border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
           suffixIcon: GestureDetector(child: Icon(Icons.search), onTap: () => submitAnimeName(context, textController.text ?? "",),)
         ),
